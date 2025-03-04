@@ -22,10 +22,12 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+```
 
 import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS (2).csv")
 df
+```
 OP:
 ![image](https://github.com/user-attachments/assets/4166ad8e-7ee4-4a95-89ba-4ba3db9f3929)
 ```
@@ -109,8 +111,10 @@ dataset1
 ```
 op:
 ![image](https://github.com/user-attachments/assets/e6caaeb7-f61d-4ef7-b3ec-ddbfb0449f0f)
+```
 
 Result:
+```
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
 
 
