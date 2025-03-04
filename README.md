@@ -33,7 +33,8 @@ OP:
 ```
 df.isnull().sum()
 ```
-op:![image](https://github.com/user-attachments/assets/52290a7b-7fb6-4996-8bf9-bad39ea1216a)
+op:
+![image](https://github.com/user-attachments/assets/52290a7b-7fb6-4996-8bf9-bad39ea1216a)
 ```
 df.isnull().any()
 ```
