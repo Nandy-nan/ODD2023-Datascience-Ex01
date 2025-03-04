@@ -103,8 +103,7 @@ op:
 z = np.abs(stats.zscore(dataset['height']))
 z
 ```
-op:
-![image](https://github.com/user-attachments/assets/1b5f23f4-ffab-48d6-84f3-65c3446773c7)
+op:![image](https://github.com/user-attachments/assets/1b5f23f4-ffab-48d6-84f3-65c3446773c7)
 
 ```
 dataset1 = dataset[z<3]
